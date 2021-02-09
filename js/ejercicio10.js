@@ -9,9 +9,11 @@ while(autor!="Cervantes"){
    intentos = intentos + 1;
 }
 
+// Le ponemos la condición de escribir en el HTML la siguiente frase si los intentos son superiores a 5.
 if(intentos > 5){
      document.write(intentos + 
                      " intentos para acertar la respuesta, YA TE VALE");
+// Y cualquier otro tipo de acción escribirá en el HTML la siguiente frase.
 } else {
      document.write(intentos + 
                      " intentos para acertar la respuesta, MUY BIEN");   
