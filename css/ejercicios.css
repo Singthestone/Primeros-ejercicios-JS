@@ -1,0 +1,37 @@
+body {
+    background-color: #f4f4f4;
+    color: rgb(153, 152, 155);
+}
+
+.ej_1, 
+.ej_2, 
+.ej_3, 
+.ej_4, 
+.ej_5, 
+.ej_6 {
+    text-align: left;
+    align-items: left;
+    padding: 2rem;
+    font-family: Helvetica, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.ejercicio4{
+    text-align: left;
+    align-items: left;
+    padding: 1rem 2em;
+    font-family: Helvetica, sans-serif;
+    font-size: 1rem;
+}
+
+/* Ejercicio 12 */
+.center{
+    text-align: center;
+}
+.image{
+    display: inline-block;
+    width: 30%;
+    height: 30%;
+    margin: 0.5rem;
+}
